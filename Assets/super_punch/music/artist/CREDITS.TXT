@@ -1,0 +1,418 @@
+###############################################
+OpenGameArt.org automatically generated credits file notice:
+
+THIS FILE IS FOR INFORMATIONAL PURPOSES ONLY.  NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL OPENGAMEART.ORG BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE USE OF THIS FILE OR THE INFORMATION IN IT.
+
+In plain English:  This credits file is automatically generated to the best of our ability, but it remains YOUR RESPONSIBILITY as a game developer to ensure that the art you use is attributed properly.  That is, we can't be held liable even if all of the information in this file is completely wrong.   In addition, some of the art listed in this file may have SPECIAL ATTRIBUTION INSTRUCTIONS that ask that you credit the artist in a particular way, rather than a verbatim copyright notice.  In those cases, you will probably need to hand-edit this file to comply with their instructions.  In some older art, attribution instructions may be included in the art description itself.  Please check the art page to be sure.
+
+We recommend that you delete this notice when you're sure the information here is correct and the attribution instructions are properly followed.  If you aren't the game developer and you're seeing this notice here in the credits, it probably means that the developer hasn't properly verified the attribution information contained herein even though it said they were supposed to do it right on the page where they downloaded this file.  
+###############################################
+
+----------------------------------------
+
+Title:
+    Music Loops
+
+Author:
+    Paulius Jurgelevičius
+
+URL:
+    http://opengameart.org/content/music-loops
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * loops.7z
+    * dumus_0.mp3
+    * fast_background.mp3
+    * four_loop.mp3
+    * tempo.mp3
+
+----------------------------------------
+
+Title:
+    Hit and Run
+
+Author:
+    section31
+
+URL:
+    http://opengameart.org/content/hit-and-run
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+Copyright/Attribution Notice:
+    No copyright necessary, do whatever you want with it. 
+
+File(s):
+    * S31-Hit and Run.ogg
+
+----------------------------------------
+
+Title:
+    Unexpected Trouble
+
+Author:
+    section31
+
+URL:
+    http://opengameart.org/content/unexpected-trouble
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+Copyright/Attribution Notice:
+    No copyright necessary, do whatever you want with it. 
+
+File(s):
+    * S31-Unexpected Trouble.ogg
+
+----------------------------------------
+
+Title:
+    Reflection of Progress
+
+Author:
+    section31
+
+URL:
+    http://opengameart.org/content/reflection-of-progress
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * S31-Reflection of Progress.ogg
+
+----------------------------------------
+
+Title:
+    Through the Portal
+
+Author:
+    section31
+
+URL:
+    http://opengameart.org/content/through-the-portal
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * S31-Through the Portal.ogg
+
+----------------------------------------
+
+Title:
+    Let the Games Begin
+
+Author:
+    section31
+
+URL:
+    http://opengameart.org/content/let-the-games-begin-0
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+Copyright/Attribution Notice:
+    No copyright necessary, do whatever you want with it. 
+
+File(s):
+    * S31-Let the Games Begin.ogg
+
+----------------------------------------
+
+Title:
+    Going Deep
+
+Author:
+    section31
+
+URL:
+    http://opengameart.org/content/going-deep
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+Copyright/Attribution Notice:
+    No copyright necessary, but if you are feeling generous, credit Section 31 -Tech
+
+File(s):
+    * S31-Going Deep.ogg
+
+----------------------------------------
+
+Title:
+    Sewer Nightclub
+
+Author:
+    section31
+
+URL:
+    http://opengameart.org/content/sewer-nightclub
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+Copyright/Attribution Notice:
+    No copyright necessary, but if you are feeling generous, credit Section 31 -Tech (http://s31tech.org)
+
+File(s):
+    * S31-Sewer Nightclub.ogg
+
+----------------------------------------
+
+Title:
+    Planets2 - Tile_B
+
+Author:
+    section31
+
+URL:
+    http://opengameart.org/content/planets2-tileb
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+Copyright/Attribution Notice:
+    If you feel like it, please Credit Section 31 - Tech (s31tech.org)...If not then I wont be coming after you or anything either way :)
+
+File(s):
+    * Planets2_TileB.png
+
+----------------------------------------
+Title:
+    The Groove
+
+Author:
+    section31
+
+URL:
+    http://opengameart.org/content/the-groove
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+Copyright/Attribution Notice:
+    No copyright necessary, but if you are feeling generous, credit Section 31 -Tech (http://s31tech.org)
+
+File(s):
+    * S31-The Groove.ogg
+
+----------------------------------------
+Title:
+    Cracked Out Robot
+
+Author:
+    section31
+
+URL:
+    http://opengameart.org/content/cracked-out-robot
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+Copyright/Attribution Notice:
+    No copyright necessary, but if you are feeling generous, credit Section 31 -Tech (http://s31tech.org)
+
+File(s):
+    * S31-Cracked Out Robot.ogg
+
+----------------------------------------
+
+Title:
+    City on Speed
+
+Author:
+    section31
+
+URL:
+    http://opengameart.org/content/city-on-speed
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+Copyright/Attribution Notice:
+    No copyright necessary, but if you are feeling generous, credit Section 31 -Tech (http://s31tech.org)
+
+File(s):
+    * S31-City on Speed.ogg
+
+----------------------------------------
+
+Title:
+    Internal Reflection
+
+Author:
+    section31
+
+URL:
+    http://opengameart.org/content/internal-reflection
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+Copyright/Attribution Notice:
+    No copyright necessary, but if you are feeling generous, credit Section 31 -Tech (http://s31tech.org)
+
+File(s):
+    * S31-Internal Reflection.ogg
+
+----------------------------------------
+Title:
+    Our Last Chance
+
+Author:
+    section31
+
+URL:
+    http://opengameart.org/content/our-last-chance
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+Copyright/Attribution Notice:
+    No copyright necessary, but if you are feeling generous, credit Section 31 -Tech (http://s31tech.org)
+
+File(s):
+    * S31-Our Last Chance.ogg
+
+----------------------------------------
+Title:
+    Puppet Warehouse
+
+Author:
+    section31
+
+URL:
+    http://opengameart.org/content/puppet-warehouse
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+Copyright/Attribution Notice:
+    No copyright necessary, but if you are feeling generous, credit Section 31 -Tech (http://s31tech.org)
+
+File(s):
+    * S31-Puppet Warehouse.ogg
+
+----------------------------------------
+
+Title:
+    Closing In
+
+Author:
+    section31
+
+URL:
+    http://opengameart.org/content/closing-in
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+Copyright/Attribution Notice:
+    No copyright necessary, but if you are feeling generous, credit Section 31 -Tech (http://s31tech.org)
+
+File(s):
+    * S31-Closing In.ogg
+
+----------------------------------------
+Title:
+    Heavy Steroid Use
+
+Author:
+    section31
+
+URL:
+    http://opengameart.org/content/heavy-steroid-use
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+Copyright/Attribution Notice:
+    No copyright necessary, but if you are feeling generous, credit Section 31 -Tech (http://s31tech.org)
+
+File(s):
+    * S31-Heavy Steroid Use.ogg
+
+----------------------------------------
+Title:
+    200% Production
+
+Author:
+    section31
+
+URL:
+    http://opengameart.org/content/200-production
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+Copyright/Attribution Notice:
+    No copyright necessary, but if you are feeling generous, credit Section 31 -Tech (http://s31tech.org)
+
+File(s):
+    * S31-200% Production.ogg
+
+----------------------------------------
+Title:
+    The Gears of Progress
+
+Author:
+    section31
+
+URL:
+    http://opengameart.org/content/the-gears-of-progress
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+Copyright/Attribution Notice:
+    No copyright necessary, but if you are feeling generous, credit Section 31 -Tech (http://s31tech.org)
+
+File(s):
+    * S31-The Gears of Progress.ogg
+
+----------------------------------------
+
+Title:
+    Continued Investigation
+
+Author:
+    section31
+
+URL:
+    http://opengameart.org/content/continued-investigation
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+Copyright/Attribution Notice:
+    No copyright necessary, but if you are feeling generous, credit Section 31 -Tech (http://s31tech.org)
+
+File(s):
+    * S31-Continued Investigation.ogg
+
+----------------------------------------
+Title:
+    Dark Alleys, Dark Times
+
+Author:
+    section31
+
+URL:
+    http://opengameart.org/content/dark-alleys-dark-times
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+Copyright/Attribution Notice:
+    No copyright necessary, but if you are feeling generous, credit Section 31 -Tech (http://s31tech.org)
+
+File(s):
+    * S31-Dark Alleys, Dark Times.ogg
+
+----------------------------------------

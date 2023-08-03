@@ -1,0 +1,111 @@
+fileFormatVersion: 2
+guid: d7cbca67a0d6b47759ff0420a15a7b97
+timeCreated: 1448384003
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: roundGirl_0
+    21300002: roundGirl_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 1
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -1
+    compressionQuality: 100
+    allowsAlphaSplitting: 1
+  spriteSheet:
+    sprites:
+    - name: roundGirl_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 222
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 80.60538}
+        - {x: -58.5, y: 49.605377}
+        - {x: -64.5, y: -28.394623}
+        - {x: -64.5, y: -58.394623}
+        - {x: -55.5, y: -80.39462}
+        - {x: 61.5, y: -80.39462}
+        - {x: 61.5, y: 80.60538}
+    - name: roundGirl_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 222
+        height: 856
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.09641, y: 197.5}
+        - {x: 62.096413, y: 236.5}
+        - {x: -52.903587, y: 236.5}
+        - {x: -59.903587, y: 177.5}
+        - {x: -63.903587, y: 142.5}
+        - {x: -63.903587, y: 83.5}
+        - {x: -27.903587, y: -57.5}
+        - {x: -28.903587, y: -92.5}
+        - {x: -30.903587, y: -195.5}
+        - {x: -63.903587, y: -232.5}
+        - {x: -63.903587, y: -235.5}
+        - {x: -51.903587, y: -242.5}
+        - {x: 46.096413, y: -242.5}
+        - {x: 65.09641, y: -237.5}
+        - {x: 65.09641, y: -222.5}
+        - {x: 16.096413, y: -142.5}
+        - {x: 31.096413, y: -79.5}
+        - {x: 65.09641, y: 14.5}
+    outline: []
+  spritePackingTag: field
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
